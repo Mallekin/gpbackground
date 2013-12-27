@@ -17,9 +17,10 @@
 
 Examples
 ---------------------------
-![alt tag](http://i.imgur.com/BNtI2mB.png)
 ![alt tag](http://i.imgur.com/peslCLA.png)
-![alt tag](http://i.imgur.com/duFpbUZ.png)
 ![alt tag](http://i.imgur.com/rBbgpGF.png)
+![alt tag](http://i.imgur.com/Ol5pR7y.png)
+![alt tag](http://i.imgur.com/PhIVdLP.png)
+![alt tag](http://i.imgur.com/HZXQ4Nx.png)
+![alt tag](http://i.imgur.com/0uD71Zb.png)
 ![alt tag](http://i.imgur.com/PtklQwbh.png)
-
